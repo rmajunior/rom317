@@ -1,2 +1,2 @@
-# VR working team
-Robson Junior's Lehigh University GitHub repository
+# My Git Notebooks
+Robson Junior's GitHub notebooks repository
